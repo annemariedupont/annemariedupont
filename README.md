@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hello la communauté
+### Je suis actuellement en formation de concepteur et developpeur d'applications.
+### J'espère que je pourrai apprendre à coder rapidement grâce à Github.
+### Si vous pouvez m'aider je vous serai reconnaissante.
 
 <!--
 **annemariedupont/annemariedupont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
